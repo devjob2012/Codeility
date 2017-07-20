@@ -5,8 +5,7 @@ import static java.lang.Integer.toBinaryString;
 import java.util.stream.Stream;
 
 /**
- * Hello world!
- *
+ * This is Binary GAP solution from codility
  */
 public class CalculateBinaryGap {
 	public static void main(String[] args) {
